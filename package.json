@@ -1,0 +1,27 @@
+{
+  "name": "coco-ssd-project",
+  "version": "1.0.0",
+  "description": "initial-ml-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickAngrezani/initial-ml-project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatrickAngrezani/initial-ml-project/issues"
+  },
+  "homepage": "https://github.com/PatrickAngrezani/initial-ml-project#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.18.0",
+    "@tensorflow/tfjs-node-gpu": "^4.18.0",
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "node": "^18.20.2",
+    "nodemon": "^3.1.0"
+  }
+}
